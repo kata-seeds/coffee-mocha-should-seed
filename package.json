@@ -1,11 +1,11 @@
 {
   "name": "coffee-mocha-should-seed",
   "dependencies": {
-    "coffee-script": "~1.7.1"
+    "coffee-script": ""
   },
   "devDependencies": {
-    "mocha": "~1.18.2",
-    "should": "~3.2.0-beta1"
+    "mocha": "",
+    "should": ""
   },
   "scripts": {
     "test": "NODE_ENV=test ./node_modules/.bin/mocha"
